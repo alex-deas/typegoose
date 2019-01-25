@@ -1,6 +1,6 @@
 {
   "name": "typegoose",
-  "version": "5.4.1",
+  "version": "5.4.2",
   "description": "Define Mongoose models using TypeScript classes.",
   "main": "lib/typegoose.js",
   "files": [
@@ -18,7 +18,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/szokodiakos/typegoose.git"
+    "url": "https://github.com/alex-deas/typegoose.git"
   },
   "types": "lib/typegoose.d.ts",
   "typings": "lib/typegoose.d.ts",
